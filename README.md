@@ -1,0 +1,2 @@
+# STOCK TRADING AI-FINRL
+Built a stock trading AI agent using the FINRL framework and Advantage Actor-Critic (A2C) algorithm to dynamically optimize portfolio allocation based on historical financial data. Backtested the model against Mean-Variance Optimization and Dow Jones Industrial Average (DJIA) for performance benchmarking. Integrated deep reinforcement learning, quantitative finance, and Python backtesting tools to drive automated trading decisions.
